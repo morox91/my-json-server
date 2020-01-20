@@ -1,0 +1,26 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "bikes_available_to_book": 1,
+        "bikes": [
+          "first",
+          "second"
+        ],
+        "richBikes": [
+          {
+            "name": "first",
+            "gears": 21
+          },
+          {
+            "name": "second",
+            "gears": 3
+          },
+          {
+            "name": "third",
+            "gears": null
+          }
+        ]
+      }
+    ]
+  }
